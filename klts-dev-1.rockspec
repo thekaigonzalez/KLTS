@@ -1,11 +1,11 @@
 package = "KLTS"
 version = "dev-1"
 source = {
-   url = "*** please add URL for source tarball, zip or repository here ***"
+   url = "none"
 }
 description = {
-   homepage = "*** please enter a project homepage ***",
-   license = "*** please specify a license ***"
+   homepage = "nowhere",
+   license = "MIT"
 }
 build = {
    type = "builtin",
